@@ -4,10 +4,10 @@
 
 /* Example 2:
              Input: Str = HappyNewYear
-              Output: HapyNewYr*/
+              Output: HapyNewYear*/
 
 let Str = "geeksforgeeks";
-// let Str = HappyNewYear;
+// let Str = "HappyNewYear";
 
 let array = Str.split("");
 let newStr = [];
