@@ -12,4 +12,4 @@ function removeDuplicates() {
   newStr = input.join("");
 }
 removeDuplicates(array);
-console.log(newStr);
+console.log("NewString:", newStr);
