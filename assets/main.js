@@ -1,4 +1,14 @@
+/* Example 1:
+             Input: Str = geeksforgeeks
+              Output: geksforgek*/
+
+/* Example 2:
+             Input: Str = HappyNewYear
+              Output: HapyNewYr*/
+
 let Str = "geeksforgeeks";
+// let Str = HappyNewYear;
+
 let array = Str.split("");
 let newStr = [];
 

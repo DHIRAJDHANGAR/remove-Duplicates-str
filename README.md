@@ -11,3 +11,13 @@ Example 1:
 Explanation: After removing duplicate
 characters such as e, k, g, s, we have
 string as "geksforgek".
+
+Example 2:
+
+## Input: Str = HappyNewYear
+
+## Output: HapyNewYr
+
+Explanation: After removing duplicate
+characters such as p, e, a, we have
+string as "HapyNewYr".
