@@ -1,16 +1,15 @@
 let Str = "geeksforgeeks";
 let array = Str.split("");
-// let newStr = " ";
-// newStr = array.toString();
+let newStr = [];
 
 function removeDuplicates() {
-  let add = [];
+  let input = [];
   for (let i = 0; i < array.length; i++) {
     if (array[i] !== array[i + 1]) {
-      add.push(array[i]);
-      //   console.log("ln11", add);
+      input.push(array[i]);
     }
   }
-  console.log(add);
+  newStr = input.join("");
 }
 removeDuplicates(array);
+console.log(newStr);
