@@ -10,4 +10,4 @@ Example 1:
 
 Explanation: After removing duplicate
 characters such as e, k, g, s, we have
-string as "geksfor".
+string as "geksforgek".
