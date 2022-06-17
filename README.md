@@ -6,7 +6,7 @@ Example 1:
 
 ## Input: Str = geeksforgeeks
 
-## Output: geksfor
+## Output: geksforgek
 
 Explanation: After removing duplicate
 characters such as e, k, g, s, we have
